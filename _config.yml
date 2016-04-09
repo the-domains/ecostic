@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#A0D0C8'
+    - '#12726C'
+    - '#000000'
+    - '#70E8E0'
+    - '#90F8F0'
+  brandStrength: 0.703125
+  lightness: 0.672337
+  rhythmicContrast: 0.778668
+  saturation: 0.430706
+cta: {}
+layout_spectrum: 0.50951
+name: ecostic
+opengraph: {}
+purpose: {}
+typography_spectrum: 0
